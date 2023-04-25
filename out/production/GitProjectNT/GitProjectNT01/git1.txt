@@ -1,0 +1,12 @@
+bir kısım kodlar yazdım.
+oleyy, git öğreniyoruz.
+git init komutunu projemize git ile ilişkilendirmek için sadece bir kez kullanırız.
+yeni kodlar
+version1
+--------------
+git commit  - m ile bir mesajla birlikte commit olusturabiliriz.
+version2
+-----------------
+git commit - am"":add+commit birlikte kullanırız. ancak bu komut dosya için en az bir kez git add kullanıldıktan sonra çalışır.
+version3
+-----------------
