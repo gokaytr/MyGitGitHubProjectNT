@@ -10,6 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("java öğrenmek ne kadarda zor");
         //version5
+        System.out.println();
+        //localde degişiklik yaptım
     }
 
 }
